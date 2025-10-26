@@ -43,4 +43,4 @@ This project analyzes **electric vehicle (EV) sales data across Indian states** 
 
 The analysis demonstrates India’s rapid EV transition driven by affordability and supportive policies. Data-driven insights from this project can help guide **policy refinement, sustainable mobility planning,** and **targeted market interventions** to accelerate nationwide EV adoption.
 
-Would you like me to make it more **short and formatted for a GitHub README (with badges, emojis, and sections like Installation & Usage)**? That would make it look more professional.
+![alt image](https://github.com/smdafreed9949-commits/Electric-Vehicle-Sales-by-State-in-India./blob/812e7de71e0515a4b5b5a82647ec7426bbc349c3/WhatsApp%20Image%202025-10-23%20at%2022.29.17_47da08f2.jpg)
